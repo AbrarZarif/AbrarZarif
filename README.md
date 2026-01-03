@@ -45,9 +45,10 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 
 #### Signal Processing & Sensing
 - Time–frequency analysis (FFT, STFT)
-- Filtering (IIR/FIR, adaptive, notch)
-- PCA / ICA for artifact removal
-- Wireless sensing (CSI, Radar)
+- Filtering (IIR/FI, adaptive, notch)
+- PCA and ICA for dimensionality reduction and signal separation
+- Emperical Mode Decomposition family
+- Wireless sensing (Wi-Fi, Radar)
 
 #### Dev & Deployment
 ![My Skills](https://skillicons.dev/icons?i=docker,linux)
