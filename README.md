@@ -12,18 +12,18 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 
 ### 👨‍🔬 About Me
 
-- 🎓 Electrical & Electronic Engineering graduate (First Class)
-- 📡 Research focus: **non-contact physiological sensing, Digital healthcare, **
-- 🤖 Strong interest in **Machine Learning & AI for healthcare**
-- 🧠 Experienced in **signal processing → ML pipelines**
-- 🚀 I enjoy building **end-to-end, deployable ML systems**
-- 🌍 Research & volunteering experience with **IEEE**
+ 🎓 Electrical & Electronic Engineering graduate (First Class)
+ 📡 Research focus: **non-contact physiological sensing, Digital healthcare, **
+ 🤖 Strong interest in **Machine Learning & AI for healthcare**
+ 🧠 Experienced in **signal processing → ML pipelines**
+ 🚀 I enjoy building **end-to-end, deployable ML systems**
+ 🌍 Volunteering experience with **IEEE**
 
 ---
 
-### 🔬 Research & Projects
+### 🔬 Research & Selected Projects
 
-- 🫀 **Wi-Fi CSI–based Respiration & Heart Rate Monitoring**
+- 🫀 **Wi-Fi CSI–based Respiration & Heart Rate Monitoring and random body motion removal**
 - 📡 **CW Doppler Radar–based Vital Sign Sensing**
 - ♻️ **AI-based Smart Recycling Bin (Embedded + ML)**
 - 🧠 **Heart Disease Prediction (End-to-End ML Pipeline)**
