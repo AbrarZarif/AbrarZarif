@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Abrar Zarif</h1>
+<h1 align="center">Hello, I'm Abrar Zarif</h1>
 <h3 align="center">
 Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Digital Health |
 </h3>
@@ -13,20 +13,20 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 ### 👨‍🔬 About Me
 
  🎓 Electrical & Electronic Engineering graduate (First Class)
- 📡 Research focus: **non-contact physiological sensing, Digital healthcare, **
- 🤖 Strong interest in **Machine Learning & AI for healthcare**
- 🧠 Experienced in **signal processing → ML pipelines**
- 🚀 I enjoy building **end-to-end, deployable ML systems**
- 🌍 Volunteering experience with **IEEE**
+ Research focus: **non-contact physiological sensing, Digital healthcare, **
+ Strong interest in **Machine Learning & AI for healthcare**
+ Experienced in **signal processing → ML pipelines**
+ I enjoy building **end-to-end, deployable ML systems**
+ Volunteering experience with **IEEE**
 
 ---
 
 ### 🔬 Research & Selected Projects
 
-- 🫀 **Wi-Fi CSI–based Respiration & Heart Rate Monitoring and random body motion removal**
-- 📡 **CW Doppler Radar–based Vital Sign Sensing**
-- ♻️ **AI-based Smart Recycling Bin (Embedded + ML)**
-- 🧠 **Heart Disease Prediction (End-to-End ML Pipeline)**
+- **Wi-Fi CSI–based Respiration & Heart Rate Monitoring and random body motion removal**
+- **CW Doppler Radar–based Vital Sign Sensing**
+- **AI-based Smart Recycling Bin (Embedded + ML)**
+- **Heart Disease Prediction (End-to-End ML Pipeline)**
 
 ---
 
@@ -62,9 +62,9 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 
 ### 📫 Connect With Me
 
-- 📧 Email: abrar.zarif.abir@gmail.com
-- 💼 LinkedIn: [Abrar Zarif](https://www.linkedin.com/in/abrarzarifabir/)
-- 📄 ResearchGate: [Abrar Zarif] (https://www.researchgate.net/profile/Abrar-Zarif?ev=hdr_xprf)
+- Email: abrar.zarif.abir@gmail.com
+- LinkedIn: [Abrar Zarif](https://www.linkedin.com/in/abrarzarifabir/)
+- ResearchGate: [Abrar Zarif] (https://www.researchgate.net/profile/Abrar-Zarif?ev=hdr_xprf)
 
 ---
 
