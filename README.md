@@ -3,20 +3,15 @@
 Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Digital Health |
 </h3>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbrarZarif&color=blue" alt="profile views"/>
-</p>
-
 ---
 
 ### 👨‍🔬 About Me
 
- 🎓Electrical & Electronic Engineering graduate (First Class)
- -Research focus: **non-contact physiological sensing, Digital healthcare, **
- -Strong interest in **Machine Learning & AI for healthcare**
- -Experienced in **signal processing & ML pipelines**
- -I enjoy building **end-to-end, deployable ML systems**
+ 🎓Electrical & Electronic Engineering graduate from the University of Dhaka, Bangladesh (First Class)   
+ -**Research focus**: non-contact physiological sensing, Digital healthcare, AI/ML in healthcare  
+ -Strong interest in **Machine Learning & AI for healthcare**  
+ -Experienced in **signal processing & ML pipelines**   
+ -I enjoy building **end-to-end, deployable ML systems**  
  -Volunteering experience with **IEEE**
 
 ---
@@ -33,29 +28,27 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 ### 🛠️ Technical Skill Set
 
 #### Programming & Tools
-![My Skills](https://skillicons.dev/icons?i=python,matlab,c,cpp,bash,git,github)
+![My Skills](https://skillicons.dev/icons?i=python,matlab,c,bash,git,github,linux)
 
 #### Machine Learning & Data
-![My Skills](https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch)
+![My Skills](https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,matplotlib,seaborn)
 
 - Feature engineering & selection  
-- Classical ML, DL fundamentals  
+- Classical ML, DL fundamentals
+- EDA
 - Model evaluation & deployment  
-- SHAP, permutation importance  
+- Visualization and analysis 
 
-#### Signal Processing & Sensing
+#### Sensing & Signal Processing
 - Time–frequency analysis (FFT, STFT)
-- Filtering (IIR/FI, adaptive, notch)
+- Filtering (IIR/FIR, adaptive, notch, etc.)
 - PCA and ICA for dimensionality reduction and signal separation
-- Emperical Mode Decomposition family
+- Empirical Mode Decomposition family
 - Wireless sensing (Wi-Fi, Radar)
 
 #### Dev & Deployment
-![My Skills](https://skillicons.dev/icons?i=docker,linux)
+![My Skills](https://skillicons.dev/icons?i=docker,linux,aws,gcp,powerbi)
 
-- Dockerized ML models  
-- REST APIs (FastAPI)  
-- Reproducible ML pipelines  
 
 ---
 
@@ -64,7 +57,7 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 
 - Email: abrar.zarif.abir@gmail.com
 - LinkedIn: [Abrar Zarif](https://www.linkedin.com/in/abrarzarifabir/)
-- ResearchGate: [Abrar Zarif] (https://www.researchgate.net/profile/Abrar-Zarif?ev=hdr_xprf)
+- ResearchGate: [Abrar Zarif](https://www.researchgate.net/profile/Abrar-Zarif?ev=hdr_xprf)
 
 ---
 
