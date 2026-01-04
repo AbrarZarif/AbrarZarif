@@ -12,12 +12,12 @@ Electrical & Electronic Engineer | ML / AI | Signal Processing | RF Sensing | Di
 
 ### 👨‍🔬 About Me
 
- 🎓 Electrical & Electronic Engineering graduate (First Class)
- Research focus: **non-contact physiological sensing, Digital healthcare, **
- Strong interest in **Machine Learning & AI for healthcare**
- Experienced in **signal processing → ML pipelines**
- I enjoy building **end-to-end, deployable ML systems**
- Volunteering experience with **IEEE**
+ 🎓Electrical & Electronic Engineering graduate (First Class)
+ -Research focus: **non-contact physiological sensing, Digital healthcare, **
+ -Strong interest in **Machine Learning & AI for healthcare**
+ -Experienced in **signal processing & ML pipelines**
+ -I enjoy building **end-to-end, deployable ML systems**
+ -Volunteering experience with **IEEE**
 
 ---
 
